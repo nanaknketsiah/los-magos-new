@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41.504" height="41.505" viewBox="0 0 41.504 41.505">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_160" data-name="Rettangolo 160" width="41.504" height="41.505" fill="#ece2d8"/>
+    </clipPath>
+  </defs>
+  <g id="Raggruppa_24415" data-name="Raggruppa 24415" transform="translate(-0.001 3)">
+    <g id="Raggruppa_106" data-name="Raggruppa 106" transform="translate(0.001 -3)" clip-path="url(#clip-path)">
+      <path id="Tracciato_81" data-name="Tracciato 81" d="M75.051,59.388h-10.7A4.713,4.713,0,0,0,59.636,64.1V74.8a4.713,4.713,0,0,0,4.713,4.713h10.7A4.713,4.713,0,0,0,79.764,74.8V64.1a4.713,4.713,0,0,0-4.713-4.713M69.7,75.975a6.523,6.523,0,1,1,6.523-6.523A6.523,6.523,0,0,1,69.7,75.975M76.223,64.7a1.768,1.768,0,1,1,1.768-1.768A1.768,1.768,0,0,1,76.223,64.7" transform="translate(-48.903 -48.699)" fill="#ece2d8"/>
+      <path id="Tracciato_82" data-name="Tracciato 82" d="M96.642,92.242a4.151,4.151,0,1,0,4.151,4.151,4.151,4.151,0,0,0-4.151-4.151" transform="translate(-75.845 -75.64)" fill="#ece2d8"/>
+      <path id="Tracciato_83" data-name="Tracciato 83" d="M20.752,0A20.753,20.753,0,1,0,41.5,20.753,20.752,20.752,0,0,0,20.752,0M33.281,26.059A7.177,7.177,0,0,1,26.1,33.237H15.49a7.177,7.177,0,0,1-7.177-7.178V15.446A7.177,7.177,0,0,1,15.49,8.269H26.1a7.177,7.177,0,0,1,7.177,7.177Z" transform="translate(0 0)" fill="#ece2d8"/>
+    </g>
+  </g>
+</svg>

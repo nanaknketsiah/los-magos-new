@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Rosella Pro Solid';
+    src: url('Rosella-Solid.eot');
+    src: local('Rosella Pro Solid'), local('Rosella-Solid'),
+        url('Rosella-Solid.eot?#iefix') format('embedded-opentype'),
+        url('Rosella-Solid.woff2') format('woff2'),
+        url('Rosella-Solid.woff') format('woff'),
+        url('Rosella-Solid.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosella Pro Hatched';
+    src: url('Rosella-Hatched.eot');
+    src: local('Rosella Pro Hatched'), local('Rosella-Hatched'),
+        url('Rosella-Hatched.eot?#iefix') format('embedded-opentype'),
+        url('Rosella-Hatched.woff2') format('woff2'),
+        url('Rosella-Hatched.woff') format('woff'),
+        url('Rosella-Hatched.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosella Pro Flourish';
+    src: url('Rosella-Flourish.eot');
+    src: local('Rosella Pro Flourish'), local('Rosella-Flourish'),
+        url('Rosella-Flourish.eot?#iefix') format('embedded-opentype'),
+        url('Rosella-Flourish.woff2') format('woff2'),
+        url('Rosella-Flourish.woff') format('woff'),
+        url('Rosella-Flourish.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosella Pro Engraved';
+    src: url('Rosella-Engraved.eot');
+    src: local('Rosella Pro Engraved'), local('Rosella-Engraved'),
+        url('Rosella-Engraved.eot?#iefix') format('embedded-opentype'),
+        url('Rosella-Engraved.woff2') format('woff2'),
+        url('Rosella-Engraved.woff') format('woff'),
+        url('Rosella-Engraved.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosella Pro Deco';
+    src: url('Rosella-Deco.eot');
+    src: local('Rosella Pro Deco'), local('Rosella-Deco'),
+        url('Rosella-Deco.eot?#iefix') format('embedded-opentype'),
+        url('Rosella-Deco.woff2') format('woff2'),
+        url('Rosella-Deco.woff') format('woff'),
+        url('Rosella-Deco.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosella Pro Inline';
+    src: url('Rosella-Inline.eot');
+    src: local('Rosella Pro Inline'), local('Rosella-Inline'),
+        url('Rosella-Inline.eot?#iefix') format('embedded-opentype'),
+        url('Rosella-Inline.woff2') format('woff2'),
+        url('Rosella-Inline.woff') format('woff'),
+        url('Rosella-Inline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
